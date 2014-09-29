@@ -1,5 +1,4 @@
 #MongoDB Image
-
 FROM ubuntu
 MAINTAINER Arunoda Susiripala, arunoda.susiripala@gmail.com
 
